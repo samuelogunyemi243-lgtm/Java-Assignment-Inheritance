@@ -1,2 +1,2 @@
 # Java-Assignment-Inheritance
-Different types of ointment inheritance.
+Different types of inheritance.
